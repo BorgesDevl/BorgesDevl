@@ -1,4 +1,4 @@
-## Olá, Eu sou Luis Borges  😃
+## Olá, Eu sou Luis Borges 😃
 
 - 🌱 Atualmente estou estudando sobre Front-end
 
